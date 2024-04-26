@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My Life is awesome.",
+    "author": "Sitesh Bhandary",
+    "publication_year": "2022",
+    "book_id": 2
+  },
+  {
+    "title": "I don't mind",
+    "author": "Kuwar Jha",
+    "publication_year": "2022",
+    "book_id": 4
+  },
+  {
+    "title": "Nothing is impossible",
+    "author": "Gaurav",
+    "publication_year": "2012",
+    "book_id": 3
+  },
+  {
+    "title": "My name is khan.",
+    "author": "AK ram",
+    "publication_year": "2020",
+    "book_id": 97
+  }
+]
