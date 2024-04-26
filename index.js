@@ -9,6 +9,7 @@ dotenv.config()
 const app = express();
 app.use(express.json());
 
+//routes
 app.use("/auth", authRoute);
 app.use("/books", booksRoute);
 
